@@ -1,3 +1,3 @@
 ***primerEstado***
-segundoEstado
+segundoEsta
 tercerEstado
