@@ -1,0 +1,3 @@
+primerEstado
+segundoEstado
+tercerEstado
